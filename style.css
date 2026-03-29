@@ -482,7 +482,7 @@ html, body {
 
 /* ===== SCREEN 5: BIRTHDAY NOTE ===== */
 #screen-note {
-    background-image: url('/note-bg.jpg');
+    background-image: url('note-bg.jpg');
     background-size: cover;
     background-position: center;
 }
